@@ -4,7 +4,7 @@
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com.br/profile.php?id=100004132816005)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusnborgesdev@gmail.com)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathewsBorges&show_icons=true&theme=github_dark)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsBorges&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MathewsBorges&show_icons=true&theme=github_dark) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MathewsBorges&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Tecnologias que eu tenho conhecimento
 <div style="display: inline_block">
