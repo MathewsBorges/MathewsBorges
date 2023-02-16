@@ -28,7 +28,6 @@
 <div><br/>
 
 Apaixonado por Programação, aprender e codar, entregando os melhores resultados possíveis 
- <br>
-  ![Visitors](https://visitor-badge.glitch.me/badge?page_id=MathewsBorges)
+
 
 
