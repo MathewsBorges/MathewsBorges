@@ -29,7 +29,7 @@
 </div><br/>
 
 
-🚀 Entusiasta da Programação: Aprender, Codar, entregar os melhores resultados possíveis 
+🚀 Entusiasta da Programação: Aprender, Desenvolver, Entregar os melhores resultados possíveis 
 
 
 
