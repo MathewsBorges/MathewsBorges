@@ -31,5 +31,5 @@
 
 🚀 Entusiasta da Programação: Aprender, Desenvolver, Entregar os melhores resultados possíveis 
 
-![Snake animation](https://github.com/Mateus-Batista12/MathewsBorges/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/MathewsBorges/MathewsBorges/blob/output/github-contribution-grid-snake.svg)
 
