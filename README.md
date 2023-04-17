@@ -8,7 +8,9 @@
 
 [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MathewsBorges&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
 
-[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MathewsBorges&layout=compact&theme=github_dark&langs_count=10&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=MathewsBorges&layout=compact&theme=github_dark&langs_count=10&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 ### Tecnologias que tenho conhecimento
 <div style="display: inline_block">
