@@ -7,7 +7,7 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusnborgesdev@gmail.com)
 
 
-[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MathewsBorges&show_icons=true&theme=dark#gh-dark-mode-only&PAT_1=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)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MathewsBorges&layout=compact&theme=dark#gh-dark-mode-only&langs_count=10&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=MathewsBorges&rank_icon=github&show_icons=true&theme=dark#gh-dark-mode-only&PAT_1=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)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MathewsBorges&layout=compact&theme=dark#gh-dark-mode-only&langs_count=10&card_width=350)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
